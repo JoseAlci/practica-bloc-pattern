@@ -123,6 +123,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.8.2"
+  rxdart:
+    dependency: "direct main"
+    description:
+      name: rxdart
+      sha256: "79022a7d6ab5f7d00458ed74c121a75f38c88b1b3fa4bb053f23110b7a2e1241"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.22.6"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -185,4 +193,4 @@ packages:
     source: hosted
     version: "2.1.4"
 sdks:
-  dart: ">=2.19.2 <3.0.0"
+  dart: ">=2.18.0 <3.0.0"
